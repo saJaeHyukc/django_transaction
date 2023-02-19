@@ -59,7 +59,7 @@
 <br>
 
 ## 🛢 ****[Database ERD](https://www.erdcloud.com/d/iZHLrmmWZZR9AjuLo)****
-![ex_screenshot](./img/ERD.png)
+![ex_screenshot](./img/ERD_1.png)
 
 <br>
 
